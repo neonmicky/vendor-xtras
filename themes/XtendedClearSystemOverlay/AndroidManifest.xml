@@ -21,6 +21,6 @@
           android:versionName="1.0">
     <overlay android:targetPackage="android" android:category="android.theme.customization.custom_overlays" android:priority="1"/>
 
-    <application android:label="XtendedClearSystem" android:hasCode="false"/>
+    <application android:label="XtendedClearSystem" android:hasCode="false" android:requestLegacyExternalStorage="true"/>
 </manifest>
 
